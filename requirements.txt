@@ -1,0 +1,6 @@
+numpy
+streamlit
+opencv-python
+google-generativeai
+SpeechRecognition
+pyttsx3
